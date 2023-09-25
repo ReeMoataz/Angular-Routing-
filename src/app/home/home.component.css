@@ -1,0 +1,26 @@
+
+#home
+{
+  background-color: #1abc9c;
+}
+#home img
+{
+  padding-top:120px ;
+  width: 20% !important;
+
+}
+
+.font-size-h1
+{
+   font-size: 4rem !important;
+}
+.line
+{
+  width: 100%;
+  max-width: 7rem;
+  height: 0.25rem;
+  background-color: white;
+  border-radius: 1rem;
+
+}
+
